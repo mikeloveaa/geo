@@ -1,0 +1,8 @@
+{
+  "name": "geo",
+  "description": "A comprehensive Generative Engine Optimization (GEO) platform for AI-powered content creation, management, and cross-platform distribution tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
